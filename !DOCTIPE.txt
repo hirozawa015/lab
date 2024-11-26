@@ -1,0 +1,8 @@
+<!DOCTIPE>
+<html>
+ <head>
+  <meta charset="UTF=8">
+  <title>15puzzle</title>
+  <style>
+   .tile{
+    
